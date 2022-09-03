@@ -11,6 +11,8 @@ X = Menu
 Arrow Keys = Movement
 Mouse Click = Movement
 Enter = Ok
+----
+Mobile Control's = Soon!
 
 # Other
 https://The-Last-Standing-RPG.christianstone2.repl.co
