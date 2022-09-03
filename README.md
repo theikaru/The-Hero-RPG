@@ -1,5 +1,6 @@
 # The-Hero-RPG
 EARLY Beta Current Version 1.1 Free
+Restarting The Game, Looks And Map. Be Ready (Update 1.2)
 
 # Change Log
 Update 1 (ADDED) Water & Map And NPC's , Transportation & Shop
